@@ -3,7 +3,7 @@
 # Configuration du serveur
 
   
-title               : portfolYOU
+title               : boroousseni
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -61,7 +61,7 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /diwoulo/projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
