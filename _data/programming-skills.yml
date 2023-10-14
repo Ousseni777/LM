@@ -9,3 +9,7 @@
 - name: Python
   percentage: 70
   color: secondary
+
+- name: PyQT
+  percentage: 80
+  color: success

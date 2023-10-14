@@ -1,0 +1,7 @@
+- name: Protocole de Communication
+  percentage: 95
+  color: info
+
+- name: Réseaux mobile 2G, 3G, 4G, 5G
+  percentage: 90
+  color: success

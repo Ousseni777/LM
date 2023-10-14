@@ -3,15 +3,15 @@
 # Configuration du serveur
 
   
-title               : boroousseni
+title               : "BORO OUSSENI"
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
 url                 : https://ousseni777.github.io/diwoulo
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : https://ousseni777.github.io/diwoulo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : boroousseni/boro
+repository          : ousseni777.github.io/diwoulo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -30,12 +30,12 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : BoroOusseni
+  name              : "BORO OUSSENI"
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : boroousseni
+  behance           : BORO
 # dribbble          : your_username
   email             : boro7ousseni@gmail.com
-  facebook          : your_username
+  facebook          : facebook
   github            : your_username
 # gitlab            : your_username
 # instagram         : your_username
@@ -61,7 +61,7 @@ permalink: /blog/:title
 collections:
   projects:
     output: true
-    permalink: /diwoulo/projects/:name
+    permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
