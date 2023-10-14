@@ -8,8 +8,9 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
+url                 : https://ousseni777.github.io
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : boroousseni/boroousseni.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : ousseni777.github.io/diwoulo     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -29,11 +30,11 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Boro Ousseni
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : boroousseni
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : boro7ousseni@gmail.com
   facebook          : your_username
   github            : your_username
 # gitlab            : your_username
